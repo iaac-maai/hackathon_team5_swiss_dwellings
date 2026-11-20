@@ -2,7 +2,8 @@
 
 **Team 5:** Breno Sader, Diego Alpizar, Sindhuja Davuluri and Soumyajyoti Datta.
 
-[Live app](https://team5-swiss-dwellings.pages.dev) · [Model server](https://hackathon-team5-swiss-dwellings.onrender.com) · [Model card](https://huggingface.co/iaac-maai/hackathon-team5-swiss-dwellings) · [Final app code](app/)
+[Live app](https://team5-swiss-dwellings.pages.dev) · [Model server](https://hackathon-team5-swiss-dwellings.onrender.com) · [Model card](https://huggingface.co/iaac-maai/hackathon-team5-swiss-dwellings) · [Final app code](app/) · [Class Presentation](/04_final/Quiet%20%26%20Bright%20Twin%20Finder%20-%20Team%205%20Hackathon.pdf)
+
 
 ## What the app does
 
@@ -39,4 +40,4 @@ The diagrams show the earlier combined team-password and account login. They nee
 
 ## Submission status
 
-See [PROOFS.md](PROOFS.md) for recorded checks and outstanding evidence, including the limitation that user-specific history is not implemented. Provide the team password and a test account privately in the course hand-in, never in this repository. Confirm the final files are pushed to the team repository's `main` before Friday 20 November 2026, 10:00 Madrid time.
+See [PROOFS.md](PROOFS.md) for recorded checks and outstanding evidence, including the limitation that user-specific history is not implemented. Provide the team password and a test account privately in the course hand-in, never in this repository. 
